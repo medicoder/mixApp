@@ -1,0 +1,3 @@
+rootProject.name = 'antrade_driver_app'
+
+include ':app'
